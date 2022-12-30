@@ -10,13 +10,34 @@
 
   <!-- CSS - Estilos pré-estabelecidos -->
   <style>
+
+    /*Essa primeira estrutura é padrão para começar a trabalhar com o CSS.*/
+    * { 
+      margin: 0; 
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+    }
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
+
+    .imagem-perfume {
+      width: 350px;
+      height: 500px;
+    }
+
+    #titulo-perfume {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 500px, 700px;
+    }
+
   </style>
 
 </head>
   <body>
-    <header class="cabecalho"><p>P E R F U M E</p></header>
+  <img class ="imagem-perfume" src="/images/image-product-desktop.jpg" alt="Imagem Perfume">
+
+    <header><p class="cabecalho" id="titulo-perfume">P E R F U M E</p></header>
     
       <h1 class="cabecalho" id="nome-perfume">Gabrielle Essence Eau De Parfum</h1>
 
@@ -25,7 +46,7 @@
         </p>
 
           <h5 class="valor">$149.99</h5>> 
-           <h5 class="valor"></h5>>$169.99</h5>   
+           <h5 class="valor"></h5>$169.99</h5>   
           
 
             <p>Adicionar ao Carrinho</p>
