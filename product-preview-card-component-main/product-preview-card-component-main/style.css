@@ -1,0 +1,42 @@
+    
+* { /*Essa primeira estrutura é padrão para começar a trabalhar com o CSS.*/
+margin: 0; 
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;}
+
+.corpo {
+    margin-left: 50px; /* margin: auto; essa propriedade dá uma espaço para os lados e deixa próximo ao topo.*/
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 1440px;
+    background-color: hsl(30, 38%, 92%);
+    padding: 50px 50px 50px 50px;
+}
+
+.conteudo {
+    display: table;
+    margin: auto;
+}
+
+.imagem {
+    display: table-cell;
+    float: left;
+    border-radius: 15px;
+}
+
+.texto {
+    display: table-cell;
+    float: left;
+    width: 200px;
+    margin-left: 60px;
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+    
+#corpo-perfume {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500px, 700px;
+}
