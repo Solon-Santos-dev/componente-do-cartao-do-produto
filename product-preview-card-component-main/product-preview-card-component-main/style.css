@@ -40,14 +40,7 @@ body {
 #container .right-side {width: 50%; }
 
 
-
-
-
-
-
-
-
-
+/* Abaixo está a estrutura anteior onde usei o display: table, estou mantendo o código comentado para usar em uma futura manutenção caso precise, mas no momento decidi prosseguir com o projeto usando display: flex, o motivo maior é por ser mais adequado para este projeto em específico.
 
 
 
