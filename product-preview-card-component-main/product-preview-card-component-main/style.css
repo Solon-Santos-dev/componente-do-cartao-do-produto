@@ -1,4 +1,6 @@
-    
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Zen+Dots&display=swap');
+
 * { /*Essa primeira estrutura é padrão para começar a trabalhar com o CSS.*/
 margin: 0; 
 padding: 0;
@@ -12,29 +14,30 @@ body {
 #container .left-side {
     display: flex;
     flex-direction: column;
-    border-radius: 10px;
 }
 
 #container #imagem {
     display: flex;
     flex-direction: row;
-    border-radius: 10px;
-    margin-top: 150px;
+    /* border-radius: 10px; */
+    margin-top: 60px;
+    margin-bottom: 80px;
     margin-left: 350px;
-    margin-bottom: 150px;
 }
 
 #container .right-side #right-side-elements {
     display: flex;
     flex-direction: column;
-    gap: 40px;
-    margin-top: 150px;
-    margin-left: 385px;
+    gap: 30px;
+    margin-top: 60px;
+    margin-left: 270px;
+    margin-bottom: 80px;
+    padding: 30px;
     justify-content: space-between;
     background-color: hsl(0, 0%, 100%);
 }
 
-.card { width: 800px; height: 600px}
+.card { width: 800px; height: 600px; position: center; }
 
 .card #container { 
     display: flex;    
@@ -44,14 +47,35 @@ body {
 
 #container .left-side { width: 50%; }
 
-#container .left-side img { width: 100%; }
+#container .left-side img { width: 80%; }
 
 #container .right-side {width: 50%; }
 
 #container .right-side #right-side-elements {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
 }
+
+.container2 { display: flex; gap: 10px; }
+
+.base { display: flex; flex-direction: column; gap: 2px; text-align: center; margin-top: 5px;}
+
+/* Title PERFUME and paragraph*/
+
+.right-side #right-side-elements #right-side-elements-title {
+font-family: 'Open Sans', sans-serif; color: hsl(228, 12%, 48%); font-size: 19px; width: 100%;
+}
+
+.right-side #right-side-elements #right-side-elements-infos {
+    color: hsl(228, 12%, 48%); font-size: 18px; width: 100%;
+}
+
+.right-side #right-side-elements #right-side-elements-name {
+    font-family: 'Fraunces', serif;
+font-family: 'Open Sans', sans-serif; font-size: 21px; width: 80%;
+}
+
+
 
 /* #container .right-side {
     display: flex;
