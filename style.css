@@ -82,6 +82,7 @@ font-family: 'Open Sans', sans-serif; color: hsl(228, 12%, 48%); font-size: 15px
     color: hsl(228, 12%, 48%); 
     width: 20%;
     line-height: 15px;
+    text-decoration-line:line-through;
 }
 
 button {
