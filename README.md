@@ -36,7 +36,7 @@ Projeto em andamento, ainda pretendo:
 - 3 Desenvolver o Layout mobile do projeto
 - 4 Fazer code review para deixar mais simples e claro
 
-Foi muito bom poder desenvolver tudo isso do zero. (eu para quebrar bastante a cabeça com flex box, divs, posicionamento dos elementos, tags HTML, e a estilização com o CSS) A proposta do Frontend Mentor é nos dar um design de exemplo com um guia de estilo, e nós podemos utilizar as ferramentas que acharmos melhor.
+Foi muito bom poder desenvolver tudo isso do zero. (Deu para quebrar bastante a cabeça com flex box, divs, posicionamento dos elementos, tags HTML, e a estilização com o CSS) A proposta do Frontend Mentor é nos dar um design de exemplo com um guia de estilo, e nós podemos utilizar as ferramentas que acharmos melhor.
 
 No decorrer do projeto aprendi sobre regras de negócio, e sobre a importância de deixar o projeto com a cara do cliente.
 A ideia é continuar evoluindo, e ir compartilhando o projeto com minha rede de contatos para estar em aperfeiçoamento contínuo.
