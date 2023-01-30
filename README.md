@@ -41,7 +41,7 @@ Foi muito bom poder desenvolver tudo isso do zero. (Deu para quebrar bastante a 
 No decorrer do projeto aprendi sobre regras de negócio, e sobre a importância de deixar o projeto com a cara do cliente.
 A ideia é continuar evoluindo, e ir compartilhando o projeto com minha rede de contatos para estar em aperfeiçoamento contínuo.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://solon-santos-dev.github.io/componente-do-cartao-do-produto/)
 
 ## 🔖 Layout
 
