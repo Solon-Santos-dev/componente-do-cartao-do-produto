@@ -1,6 +1,67 @@
-# Frontend Mentor - Product preview card component
+<h1 align="center"> Componente do cartão de visualização do produto - Product preview card component </h1>
+
+<p align="center">
+
+![Cumpri esse desafio do projeto Frontend Mentor](./design/desktop-design.jpg)
+
+</p>
+
+<!-- <p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
+<br>
+
+<!-- <p align="center">
+
+  <img alt="projeto Cartão de visualização do produto" src="" width="100%">
+</p> -->
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML 5 e CSS 3
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+Desenvolvido com o propósito de praticar algumas tecnologias utilizadas principalmente nos sites de E-commerce, menus de produtos, etc.
+
+Projeto em andamento, ainda pretendo: 
+- 1 Adicionar inputs para armazenar os dados do usuário
+- 2 Deixar o site mais interativo, adicionando o JavaScript
+- 3 Desenvolver o Layout mobile do projeto
+- 4 Fazer code review para deixar mais simples e claro
+
+Foi muito bom poder desenvolver tudo isso do zero. (eu para quebrar bastante a cabeça com flex box, divs, posicionamento dos elementos, tags HTML, e a estilização com o CSS) A proposta do Frontend Mentor é nos dar um design de exemplo com um guia de estilo, e nós podemos utilizar as ferramentas que acharmos melhor.
+
+No decorrer do projeto aprendi sobre regras de negócio, e sobre a importância de deixar o projeto com a cara do cliente.
+A ideia é continuar evoluindo, e ir compartilhando o projeto com minha rede de contatos para estar em aperfeiçoamento contínuo.
+
+- [Visite o projeto online]()
+
+## 🔖 Layout
+
+Exemplo do layout desktop:
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/tJamAFELFSolwnoBv3Poo1/Product-preview-card-component?node-id=0%3A1&t=yL2MGfHUihP4OdAt-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+<br>
+Feito com ♥ by Solon Santos 
+
+
+<!-- # Frontend Mentor - Product preview card component
+
 
 ## Welcome! 👋
 
@@ -89,4 +150,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
