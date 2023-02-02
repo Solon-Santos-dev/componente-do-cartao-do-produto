@@ -1,5 +1,5 @@
 <h1 align="center"> Componente do cartão de visualização do produto - Product preview card component </h1>
-
+Resultado:
 <p align="center">
 
 ![Cumpri esse desafio do projeto Frontend Mentor](./design/desktop-design.jpg)
@@ -34,7 +34,7 @@ Projeto em andamento, ainda pretendo:
 - 1 Adicionar inputs para armazenar os dados do usuário
 - 2 Deixar o site mais interativo, adicionando o JavaScript
 - 3 Desenvolver o Layout mobile do projeto
-- 4 Fazer code review para deixar mais simples e claro
+- 4 Code review visando melhores práticas
 
 Foi muito bom poder desenvolver tudo isso do zero. (Deu para quebrar bastante a cabeça com flex box, divs, posicionamento dos elementos, tags HTML, e a estilização com o CSS) A proposta do Frontend Mentor é nos dar um design de exemplo com um guia de estilo, e nós podemos utilizar as ferramentas que acharmos melhor.
 
